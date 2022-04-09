@@ -1,0 +1,7 @@
+[2022-04-07 09:21:10 INFO]: install::setup-logging ended
+================
+[2022-04-07 09:21:10 INFO]: install::start-up started
+[2022-04-07 09:21:10 INFO]: install::start-up build image
+[2022-04-07 09:21:10 INFO]: install::start-up running image
+[2022-04-07 09:21:10 INFO]: install::start-up ended
+================
